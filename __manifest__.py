@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Prueba SH',
-    'version': '1.0.2',
+    'version': '1.0.3',
     'summary': 'Módulo de prueba genérico',
     'description': """
 Módulo de ejemplo básico para Odoo 18.
